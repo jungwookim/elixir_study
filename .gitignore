@@ -24,3 +24,7 @@ elixir_study-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# lsp
+.lexical
+.elixir-tools
